@@ -49,12 +49,12 @@ html {
   scrollbar-color: rgb(32, 32, 32) rgb(8, 8, 8) !important;
   scrollbar-width: thin !important;
 }
-html::-webkit-scrollbar {
+::-webkit-scrollbar {
   background: rgb(8, 8, 8);
   width: 8px;
 }
 
-html::-webkit-scrollbar-thumb {
+::-webkit-scrollbar-thumb {
   background: rgb(32, 32, 32);
 }
 
